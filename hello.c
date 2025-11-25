@@ -1,8 +1,9 @@
-#include <studio.h>
+#include <stdio.h>
+
 int main(){
   printf("Hello");
   while(1){
-    print("Hello\n");
+    printf("Hello\n");
   }
   return 0;
-}
+} 
