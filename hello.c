@@ -2,7 +2,7 @@
 int main(){
   printf("Hello");
   while(1){
-    print("Hello\n);
+    print("Hello\n");
   }
   return 0;
 }
